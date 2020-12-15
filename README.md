@@ -1,5 +1,5 @@
 # Covid19-Project
-This is basically a project that was assigned by my teacher, Rafia Shaikh of Artificial Intelligence. I took a latest dataset of 13th of December 2020 covid19 cases with their corresponding countries and provinces. So we had to clean, analyze and visualize the data according to the tasks I was given by my teacher. I am writing down the whole sequence of my project with questions.
+This is basically a project that was assigned by my teacher, Rafia Shaikh of Artificial Intelligence. I took a latest dataset of 13th of December 2020 covid19 cases with their corresponding countries and provinces. So I had to clean, analyze and visualize the data according to the tasks I was given by my teacher. I am writing down the whole sequence of my project with questions.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
